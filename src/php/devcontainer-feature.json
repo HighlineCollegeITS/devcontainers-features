@@ -16,6 +16,10 @@
             "default": "latest",
             "description": "Select or enter a PHP version"
         },
+        "extensions": {
+            "type": "string",
+            "default": ""
+        },
         "installComposer": {
             "type": "boolean",
             "default": true,
